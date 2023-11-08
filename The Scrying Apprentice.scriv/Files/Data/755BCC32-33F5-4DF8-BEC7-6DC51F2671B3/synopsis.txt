@@ -1,0 +1,25 @@
+Database: Realities such as the mirror world or the base world. Each reality holds different concepts, which are the tables.
+
+Tables: Concepts like humans, vampires, armies,, etc. These are groups of related entities that wizards can scry upon.
+
+Rows: Individual entities or items within each concept. For example, each human or vampire is a row in their respective tables. 
+
+Columns: These are the unique attributes of each entity. For example, a human might have columns like name, age, location, magical_ability, etc. 
+
+Primary Key: A unique magical sigil or identifier that uniquely identifies each entity or event in a concept (table).  Will use astro-coordinates because numbers are boring.
+
+Foreign Key: A magical link or connection that ties an entity or event in one concept (table) to an entity or event in another. 
+
+Index: A magical guide or map that helps wizards find and access the information quickly, e.g., quickly finding a specific vampire or contract.
+
+Query: The act of scrying itself, where Eamon uses the Mirror of Data to view, modify, or interact with the entities within the realities.
+
+Functions (like COUNT, AVG, etc.): These could be advanced scrying techniques or spells that Eamon learns to derive new insights from his observations. For instance, COUNT might let Eamon quickly ascertain the number of soldiers in an army.
+
+Joins: Spells that Aiden uses to merge visions from different concepts (tables) into one. For instance, finding the link between a vampire and a specific contract.
+
+Transactions: A series of related scrying events or magical operations. For example, Eamon might begin a transaction to solve a mystery, which involves multiple scrying operations that must all succeed or all fail.
+
+Views: Commonly used or saved scrying visions/spells that allow wizards to quickly revisit or reuse specific insights or operations.
+
+Stored Procedures: Complex, multi-step magical rituals that are stored and can be reused with different parameters to perform common tasks. For example, there might be a stored procedure for locating a person, which could be reused for different contracts.
